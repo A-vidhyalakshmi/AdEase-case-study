@@ -7,3 +7,11 @@
 2. Forecasting the number of views so that you can predict and optimize the ad placement for the clients.
 
 You are provided with the data of 145k wikipedia pages and daily view count for each of them. Your clients belong to different regions and need data on how their ads will perform on pages in different languages.
+
+# Concept Used:
+
+1. Exploratory data analysis
+
+2. Time Series forecasting- ARIMA, SARIMAX, and Prophet
+
+
